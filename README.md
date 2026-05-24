@@ -1,7 +1,7 @@
 # Bright Data Quickstart Templates
 Central hub for Bright Data product quick start code example repositories.
 
-| Product | Postman Collection | Node Respository | Python Respository |
+| Product | Postman Collection | Node Repository | Python Repository |
 |---------|------------|-------------|-------------|
 | [Web Unlocker](https://brightdata.com/products/web-unlocker) |[Unlocker endpoint](https://www.postman.com/bright-data-api/bright-data-api/request/f0g939o/unlock-website)| [bright-data-web-unlocker-nodejs-project](https://github.com/luminati-io/bright-data-web-unlocker-nodejs-project), [bright-data-unlocker-aws-s3-storage-nodejs-project](https://github.com/brightdata/bright-data-unlocker-aws-s3-storage-nodejs-project)|[bright-data-web-unlocker-python-project](https://github.com/luminati-io/bright-data-web-unlocker-python-project)|
 | [Async Web Unlocker](https://brightdata.com/products/web-unlocker) |[Async Unlocker endpoint](https://www.postman.com/bright-data-api/bright-data-api/request/5bmflk0/asynchronous-unlock-website)|[bright-data-async-web-unlocker-nodejs-project](https://github.com/brightdata/bright-data-async-web-unlocker-nodejs-project)||
